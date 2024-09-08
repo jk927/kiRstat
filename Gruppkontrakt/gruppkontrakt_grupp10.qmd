@@ -16,6 +16,9 @@ Karl Wärnberg: Jag kommer arbeta på vardagskvällar och helger. 21-28/9 (vecka
 \
 
 Rozh Kader:
+\
+
+Johannis Klang: Jag kommer att arbeta med kursen vissa vardagkvällar och helger. Jag har viss erfarenhet i statistik men ytterst lite inom R eller annan programmering.
 
 ### På vilket sätt vill vi hjälpas åt i studierna?
 
@@ -51,3 +54,6 @@ Karl Wärnberg
 
 \
 Rozh Kader\
+
+Johannis Klang
+\
